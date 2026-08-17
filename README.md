@@ -17,10 +17,11 @@
 
 ### Technologies
 
-- Flutter
-- React
-- Node.js
-- sql
-- java
-- python
+●	Programming Languages: C++, Java, Python, Dart (Flutter)
+●	Frontend: HTML, CSS, JavaScript, React.js
+●	Backend: Node.js, Express.js
+●	Databases: MongoDB, PostgreSQL, MySQL
+●	Tools & Platforms: Git, GitHub, VS Code
+●	Stack: MERN (MongoDB, Express.js, React.js, Node.js)
+●	Concepts: SDLC, Object-Oriented Programming (OOP)
 
